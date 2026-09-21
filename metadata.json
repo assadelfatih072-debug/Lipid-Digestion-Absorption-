@@ -1,0 +1,6 @@
+{
+  "name": "Lipid Metabolism MCQs & Quiz",
+  "description": "Interactive MCQs and bioenergetics challenge on Lipid Digestion, Absorption and Beta-Oxidation with detailed biochemical explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
